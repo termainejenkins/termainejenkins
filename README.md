@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a professional software engineer and game developer working on web apps, Ai, and video games.
+Hello! I'm a professional software engineer and game developer working on web apps, Ai, and video games!
 
 
 ## 🌐 Socials:
