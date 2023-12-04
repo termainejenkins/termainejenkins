@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on an emotionally intelligent LLM, and animal ai for video games.
+Hello! I'm a professional software engineer and game developer working on web apps, Ai, and video games.
 
 
 ## 🌐 Socials:
