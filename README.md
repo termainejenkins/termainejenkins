@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a software & game developer working on web apps, automation, and games! What drives me most is making apps that make life more productive and enjoyable. Automation, Ai, and games!
+Hello! I'm a software & game developer working on web apps, automation, and Ai! What drives me most is making apps that make life more productive and enjoyable. Automation, Ai, and games!
 
 
 ## 🌐 Socials:
