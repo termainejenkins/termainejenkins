@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a professional software engineer and game developer working on web apps, Ai, and video games!
+Hello! I'm a professional software engineer and game developer working on web apps, Ai, and video games! What drives me most is making apps that make life more productive and enjoyable. Automation, Ai, and games!
 
 
 ## 🌐 Socials:
