@@ -1,27 +1,30 @@
-# 💫 About Me:
-Hello! I'm a software & game developer working on web apps, automation, and Ai! What drives me most is making apps that make life more productive and enjoyable. Automation, Ai, and games!
+# Hi, I'm Termaine "TJ" Jenkins (he/him)
 
+Self-taught solo developer in Tampa, FL, running [Sentient Solutions LLC](https://sentientsolutions.dev).
+I build desktop apps, serverless backends and indie games, and I test them like I'll be the one on call.
+I design and review the work and test it myself. AI coding agents write much of the code from my specs.
 
-## 🌐 Socials:
+**Open to work. Remote preferred.** Contact: [studio@sentientsolutions.dev](mailto:studio@sentientsolutions.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/termaine-jenkins)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/termainejenkins)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thegreatcircle_game) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TermaineJenkins) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jKNVPb6w5q) 
+## What I build
+- **Game launcher + backend:** an Electron launcher for my game *The Great Circle*. Cloudflare Workers link Steam and Discord accounts and issue Ed25519-signed entitlements. The launcher checks them offline; the game-side check is in progress. Launcher CI is green on Ubuntu and Windows. The opt-in bug-report pipeline (R2 storage, 90-day retention) and developer gating are built and merged, shipping in the next release.
+- **ReplyReader (Windows):** a PowerShell tray app that reads new AI chat replies aloud, using local Windows voices or optional cloud voices with the user's own key. Free beta; the exe isn't code-signed yet.
+- **ReplyReader (Android):** a Kotlin port, in progress and not released.
+- **Unreal Engine games:** *The Great Circle*, an indie game on Steam.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=termainejenkins&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=termainejenkins&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=termainejenkins&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Featured
+| Project | What it shows |
+|---|---|
+| [Case study: Steam + Discord linking with launcher-verified unlocks](https://sentientsolutions.dev/work/tgc-launcher/) | Architecture, threat model, testing (105 automated tests). Launcher CI is green on Ubuntu and Windows |
+| [ReplyReader](https://sentientsolutions.dev/products/replyreader/) | Privacy-first Windows tray app with signed update manifests. Beta; the exe is unsigned |
+| [ss-qa-showcase](https://github.com/termainejenkins/ss-qa-showcase) | Read-only Playwright (TypeScript) tests against my live site: smoke, navigation, download links, accessibility. Runs in GitHub Actions |
+| [TimeKeeper](https://github.com/termainejenkins/TimeKeeper) | Electron + React always-on-top HUD for time and tasks. Windows release v1.0.4 |
+| [SS_GitReporter](https://github.com/termainejenkins/SS_GitReporter) | Watches an Unreal project's git repo and posts change summaries to Discord |
 
----
-[![](https://visitcount.itsvg.in/api?id=termainejenkins&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech
+**Languages:** TypeScript, JavaScript (Node.js), PowerShell, Kotlin (learning through the Android port), Python, HTML/CSS
+**Platforms:** Cloudflare Workers, R2, D1, KV; Electron; Astro; Unreal Engine
+**Testing and CI:** Playwright, Vitest, node:test, GitHub Actions
+**Security:** Ed25519 signing, AES-256-GCM, OAuth 2.0, salted-hash rate limiting
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/thegreatcircle) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[Website](https://sentientsolutions.dev) · [LinkedIn](https://linkedin.com/in/termaine-jenkins) · [The Great Circle on Patreon](https://patreon.com/thegreatcircle)
